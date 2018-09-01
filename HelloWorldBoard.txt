@@ -1,0 +1,18 @@
+public class HelloWorldClass 
+{
+  // Entry point for the program
+  public static void main(String args[])
+{
+int x = 7;
+int y = 19;
+int z;
+
+y = z;
+x = y;
+z = x;
+   // prints "" on to the console
+   System.out.println("x="+ x + "y="+ y);
+
+
+}
+ }
